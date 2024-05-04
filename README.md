@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450px" alt="Project Logo" title="Project Title Logo" src="https://github.com/henriqueolivgp/NLW-Expert-Notes/blob/main/nlw-expert-notes/src/assets/logo-nlw-expert.svg" />
+  <img width="450px" alt="Project Logo" title="Project Title Logo" src="" />
   
   <h1 align="center">NLW-Expert-Notes (Rocketseat)</h1>
 
