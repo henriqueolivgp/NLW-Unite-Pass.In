@@ -4,7 +4,7 @@
   <h1 align="center">NLW-Unite-Pass-In (Rocketseat)</h1>
 
   <p align="center">
-    🔗 <a href="https://app.visily.ai/projects/9dc5e6b0-76df-436c-8658-478c3c9da366/boards/550049" target="_blank">Project Link</a> 🔗
+    🔗 <a href="https://www.figma.com/file/NbaSoQ8vDz9e5FzTKF7Uyh/pass.in-(Community)?type=design&t=QKrdmt1HY7WOmdxI-6" target="_blank">Project Link</a> 🔗
   </p>  
   
   This project was developed at a Rocketseat event, where Rocketseat gave a Figma Design, and we students developed this project in 3 temporally limited classes at the NLW-Unite event.  
