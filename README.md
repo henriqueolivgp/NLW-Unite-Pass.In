@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="450px" alt="Project Logo" title="Project Title Logo" src="" />
+  <img width="450px" alt="Project Logo" title="Project Title Logo" src="https://github.com/henriqueolivgp/NLW-Unite-Pass.In/blob/main/pass-in-web/src/assets/image.png" />
   
   <h1 align="center">NLW-Unite-Pass-In (Rocketseat)</h1>
 
