@@ -85,7 +85,7 @@ Enter the project directory
   cd nlw-expert-notes
 ```
 
-Enter the web directory
+Enter the api directory
 
 ```bash
   cd api
