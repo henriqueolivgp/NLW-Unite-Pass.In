@@ -50,29 +50,23 @@ I learned a lot about TypeScript, I really loved using it but I still need to le
 
 ```plainText
 app
-.                       
-├── public                        # public file( images )
-├── src                           # Source files  
-│    ├── assets                   # Contains Js bundles assets. e.g: icons, splash, images etc...
-│    ├── components               # Contains all global react components
-|          ├── new-note.tsx       #
-|          └── note-card.tsx      #
-|    ├── app.tsx                  #
-│    ├── index.css                # Contains application screens
-│    ├── main.tsx                 # Contains the theme of the application
-|    ├── vite-env.d.ts            #
-├── .env                          #
-├── .gitignore                    #
-├── index.html                    #
-├── package-lock.json             #
-├── package.json                  #
-├── postcss.config.js             #
-├── vite.config.ts                #
-├── tailwind.config.js            #
-├── tsconfig.json                 #
-├── tsconfig.node.json            #         
-.                                 #
-└── README.md                     #
+.                               #
+├── api                         # Package's ( JSON's )
+|    ├── prisma                 # Prisma migrations, schema, db and seeds 
+|           └── migrations      # Migrations
+|    ├── src                    # Lib, routes, utils, eeror-handler and server
+|          ├── lib              # Prisma Client
+|          ├── routes           # Routes and Errors
+|          └── utils            # Generate slug
+├── pass-in-web                 # Front-end
+|     ├── public                # Public file ( images )
+|     ├── src                   # Source files      
+|          ├── assets           # Private ( Images )
+|          ├── components       # Components
+|                  └── table    # Table components
+|          ├── data             # Static data for test
+.                               #
+└── README.md                   #
 ```
 
 ## 🚀 Running the Project
